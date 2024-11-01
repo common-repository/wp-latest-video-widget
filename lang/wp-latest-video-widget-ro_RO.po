@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Latest Video Widget 1.70\n"
+"POT-Creation-Date: 2013-04-29 00:01+0200\n"
+"PO-Revision-Date: 2013-04-29 00:22+0200\n"
+"Last-Translator: Radu Lucian <lucian@specimen.ro>\n"
+"Language-Team: SpeciMen <lucian@specimen.ro>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Language: Romanian\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wp_latest_video.php:19
+msgid "Show latest video."
+msgstr "Arată ultimul videoclip."
+
+#: wp_latest_video.php:20
+msgid "WP-Latest Video"
+msgstr ""
+
+#: wp_latest_video.php:135 wp_latest_video.php:174
+msgid "ERROR!"
+msgstr "EROARE!"
+
+#: wp_latest_video.php:135
+msgid "Video not set by user"
+msgstr "Videoclipul nu este setat de utilizator"
+
+#: wp_latest_video.php:135
+msgid "or"
+msgstr "sau"
+
+#: wp_latest_video.php:135
+msgid "no video to show."
+msgstr "nu există niciun videoclip."
+
+#: wp_latest_video.php:174
+msgid "Video category set by user"
+msgstr "Categoria pentru videoclip setată de utilizator"
+
+#: wp_latest_video.php:174
+msgid "do not exist!"
+msgstr "nu există!"
+
+#: wp_latest_video.php:202
+msgid "Title"
+msgstr "Titlu"
+
+#: wp_latest_video.php:206
+msgid "Category Name:"
+msgstr "Nume Categorie:"
+
+#: wp_latest_video.php:207
+msgid "(Ex: Videos)"
+msgstr "(Ex: Videoclipuri)"
+
+#: wp_latest_video.php:210
+msgid "Width:"
+msgstr "Lățime:"
+
+#: wp_latest_video.php:213
+msgid "Height:"
+msgstr "Înălțime:"
+
+#: wp_latest_video.php:218
+msgid "Enable widget title link"
+msgstr "Activează link-ul pentru titlul widgetului"
+
+#: wp_latest_video.php:221
+msgid "Where to link widget titile"
+msgstr "Unde să trimită linkul"
+
+#: wp_latest_video.php:233
+msgid "To make this widget to work, you must set custom fields in post page."
+msgstr ""
+"Pentru a face acest widget să meargă, treguie să setezi in pagina "
+"articolului câmpurile proprii/custom fields."
+
+#: wp_latest_video.php:234
+msgid "First you must set"
+msgstr "Prima dată trebuie să setezi"
+
+#: wp_latest_video.php:234
+msgid "(can be youtube,vimeo,apropo)."
+msgstr "(poate să fie youtube,vimeo,apropo)."
+
+#: wp_latest_video.php:235
+msgid "For Youtube you must set"
+msgstr "Pentru Youtube trebuie să setezi"
+
+#: wp_latest_video.php:236
+msgid "For Vimeo you must set"
+msgstr "Pentru Vimeo trebuie să setezi"
+
+#: wp_latest_video.php:237
+msgid "For Apropo.ro/Tare.ro you must set"
+msgstr "Pentru Apropo.ro/Tare.ro trebuie să setezi"
+
+#: wp_latest_video.php:237
+msgid "and"
+msgstr "și"
+
+#: wp_latest_video.php:238
+msgid "More details and help"
+msgstr "Mai multe detalii și ajutor"
+
+#: wp_latest_video.php:238
+msgid "HELP HERE!"
+msgstr "AJUTOR AICI!"
+
+#: wp_latest_video.php:238
+msgid "here"
+msgstr "aici"
